@@ -8,3 +8,11 @@ length, and last modified date, and a read/write code for  each file. The read/
 write code will be r if the file is readable and w if the file is writeable, in
 that order.“--” is to indicate that file is not readable or not writeable. 
 <img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/direct.jpg">
+
+Eg:
+Input by the user:
+<img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/input.png">
+
+Output:
+<img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/output_1.png">
+<img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/output_1_continues.png">
