@@ -10,7 +10,12 @@ that order.“--” is to indicate that file is not readable or not writeable.
 <img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/direct.jpg">
 
 
-
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 Eg:
