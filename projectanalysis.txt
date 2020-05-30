@@ -1,0 +1,17 @@
+Project Analysis
+
+*Enter the user's name.
+
+*Enter the name of the directory.
+
+*check if the entered Directory is present or not.
+
+*If directory is present then print all the files properties such as the full 
+path name of the directory,the file name, length, and last modified date
+, and a read/write code for each file.
+
+*If directory is not present ,Ask the user for the directory again until user enters "N".
+
+*If user enters the name of the directory, print the properties of directory.
+
+*If user enters "N" means print a thank you message and terminate the program.
