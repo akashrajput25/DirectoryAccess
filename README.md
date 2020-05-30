@@ -15,6 +15,7 @@ that order.“--” is to indicate that file is not readable or not writeable.
 
 Eg:
 Input by the user:
+
 <img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/input.png">
 
 
@@ -22,5 +23,7 @@ Input by the user:
 
 
 Output:
+
+
 <img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/output_1.png">
 <img src="https://github.com/akashrajput25/DirectoryAccess/blob/master/output_1_continues.png">
